@@ -35,7 +35,6 @@ cd ~
 ### Step 2K
 cd Desktop/unit1-git-practice 
 
-
 ### Step 3A
 mkdir veggies
 mkdir meats
@@ -49,7 +48,6 @@ mkdir proteins
 
 ### Step 3D
 mv meats proteins
-
 
 ### Step 3E
 cd veggies
